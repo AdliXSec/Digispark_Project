@@ -1,4 +1,4 @@
-# Arduino Project
+# Arduino Digispark Project
 
 <center><img src="digi.avif" height="300" width="500"></center><br>
 
