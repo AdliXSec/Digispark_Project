@@ -15,3 +15,5 @@ Following is the list of payloads i have worked on so far
 >Prank Hack: Untuk usil kepada teman anda
 
 >Whatsapp Spam Windows: Spam chats whatsapp
+
+>Whatsapp Spam Android: Spam chats whatsapp for Android
